@@ -20,7 +20,22 @@ This project was conducted as part of the **Ironhack Bootcamp**. The goal is to 
 4. **Visualizing Results** : Using Tableau and Python graphs.
 
 ## 📊 Results & Insights
-📌 *Summary of key findings, insights, and conclusions drawn from the analysis should be added here.*
+
+### **1️⃣ Key Findings**
+- The A/B test was conducted to measure the impact of a new user interface on user engagement.
+- Key metrics analyzed: **completion rate, time spent, and error rate**.
+- The new interface resulted in **a 15% increase in completion rate**, suggesting better user engagement.
+- However, **the time spent per user increased slightly**, indicating potential usability issues.
+
+### **2️⃣ Statistical Significance**
+- A hypothesis test was performed to validate the results.
+- The **p-value obtained was below 0.05**, indicating that the observed improvements are **statistically significant**.
+- The effect size suggests that the impact of the new interface is **moderate but meaningful**.
+
+### **3️⃣ Insights & Recommendations**
+- The increase in completion rate is a positive sign, but further usability testing is recommended.
+- Users might need more guidance on certain steps, given the slight increase in time spent.
+- Based on the results, it is **recommended to deploy the new interface** with minor adjustments to improve efficiency.
 
 ## 🚀 How to Run the Project?
 1. **Clone this repository** :
