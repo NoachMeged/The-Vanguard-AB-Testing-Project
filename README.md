@@ -1,5 +1,8 @@
 # 📊 Statistics Project
 
+![Dashboard](Photos/Dashboard.png)
+
+
 ## 📌 Description
 This project was conducted as part of the **Ironhack Bootcamp**. The goal is to explore and analyze data using **Python, Pandas, Matplotlib, Seaborn**, and to perform an **A/B Testing** experiment to assess the impact of a new user interface.
 
